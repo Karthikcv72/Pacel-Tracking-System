@@ -190,12 +190,6 @@ The database comes pre-loaded with:
 ## 🤝 Contributing
 This is a DBMS course project. Feel free to extend and enhance the features.
 
-## 📄 License
-Educational project for DBMS course.
-
-## 👨‍💻 Author
-DBMS Project 2024
-
 ---
 
 **Note**: Make sure MySQL server is running before starting the application. Test with sample data before going live.
